@@ -1,6 +1,6 @@
 {
   "name": "closure-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generic helpers for the Closure Library",
   "homepage": "https://github.com/closureplease/closure-helpers",
   "bugs": "https://github.com/closureplease/closure-helpers/issues",
@@ -16,7 +16,7 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "main": "app/index.js",
+  "main": "lib/helpers.js",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
