@@ -1,0 +1,50 @@
+{
+  "name": "closure-helpers",
+  "version": "0.0.1",
+  "description": "Generic helpers for the Closure Library",
+  "homepage": "https://github.com/closureplease/closure-helpers",
+  "bugs": "https://github.com/closureplease/closure-helpers/issues",
+  "author": {
+    "name": "Thanasis Polychronakis",
+    "email": "thanpolas@gmail.com",
+    "url": "http://thanpol.as"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/closureplease/closure-helpers.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "main": "app/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "superstartup-closure-compiler": "~0.1.4",
+    "grunt-closure-tools": "~0.7.7",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-open": "~0.2.0",
+    "matchdep": "~0.1.1",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-contrib-connect": "~0.2.0",
+    "grunt-mocha": "~0.2.3",
+    "chai": "~1.5.0",
+    "chai-as-promised": "~3.2.5",
+    "grunt-regarde": "~0.1.1"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "keywords": [
+    "closure",
+    "closure helper",
+    "closure library boilerplate",
+    "closure library"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://en.wikipedia.org/wiki/MIT_License"
+    }
+  ]
+}
