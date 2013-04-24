@@ -1,6 +1,6 @@
 {
   "name": "closure-helpers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generic helpers for the Closure Library",
   "homepage": "https://github.com/closureplease/closure-helpers",
   "bugs": "https://github.com/closureplease/closure-helpers/issues",
