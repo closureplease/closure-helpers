@@ -30,7 +30,8 @@
     "grunt-mocha": "~0.2.3",
     "chai": "~1.5.0",
     "chai-as-promised": "~3.2.5",
-    "grunt-regarde": "~0.1.1"
+    "grunt-regarde": "~0.1.1",
+    "grunt-release": "~0.3.3"
   },
   "engines": {
     "node": ">=0.8.0"
