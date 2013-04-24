@@ -129,7 +129,7 @@ module.exports = function (grunt) {
       },
       app: {
         options: {
-          root_with_prefix: ['"' + APP_PATH + ' ../../../lib"']
+          root_with_prefix: ['"' + APP_PATH + ' ../../../lib/"']
         },
         dest: '' + APP_PATH + '/deps.js'
       },

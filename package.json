@@ -13,10 +13,10 @@
     "type": "git",
     "url": "git://github.com/closureplease/closure-helpers.git"
   },
+  "main": "lib/helpers.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "main": "lib/helpers.js",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
